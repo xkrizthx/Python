@@ -1,0 +1,5 @@
+marca=input('Ingrese la marca del vehiculo :')
+placa=input('Ingrese la placa :')
+print('La marca del vehiculo es {} con placa {}'.format(marca,placa))
+print(f'La marca del vehiculo es {marca} con placa {placa}')
+print('La marca del vehiculo es ',marca, ' con placa ', placa)
